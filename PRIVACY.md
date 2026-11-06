@@ -43,4 +43,4 @@ The extension also reads data on tradingview.com pages to work with your chart, 
 
 ## Contact
 
-Questions about this policy: <add AlgoAlpha's support email or page>.
+Questions about this policy, or support with the extension: open an issue at https://github.com/tetherous/algoalpha-chat-privacy/issues
